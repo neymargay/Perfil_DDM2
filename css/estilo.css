@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 body{
-    background-color: #344a4a;
+    background-image: linear-gradient(50deg, #ED6A5A, #F4F1BB);
     font-family: "Roboto Mono", monospace;
 }
 
@@ -68,7 +68,7 @@ ul{
     padding-top: 15px;
     padding-bottom: 15px;
     margin-bottom: 10px;
-    background-color: #557171;
+    background-color: #F4F1BB;
 }
 
 .footer{
@@ -76,7 +76,7 @@ ul{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #557171;
+    background-color: #8a4339;
     color: #ffffff;
 }
 
