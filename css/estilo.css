@@ -9,6 +9,14 @@ body{
     margin: auto;
     background-color: #ffffff;
     width: 820px;
+
+    backdrop-filter:
+        blur(16px)
+        saturate(50%);
+
+    -webkit-backdrop-filter:
+        blur(16px)
+        saturate(180%);
 }
 
 .box_foto{
@@ -17,7 +25,7 @@ body{
 
 .box_foto h1{
     text-transform: uppercase;
-    color: #ffffff;
+    color: #333;
 }
 
 .box_foto img{
