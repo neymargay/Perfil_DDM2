@@ -7,16 +7,15 @@ body{
 
 .main{
     margin: auto;
-    background-color: #ffffff;
     width: 820px;
 
     backdrop-filter:
         blur(16px)
-        saturate(50%);
+        saturate(40%);
 
     -webkit-backdrop-filter:
         blur(16px)
-        saturate(180%);
+        saturate(40%);
 }
 
 .box_foto{
