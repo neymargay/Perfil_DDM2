@@ -28,12 +28,12 @@ body{
 
 .box_foto h1{
     text-transform: uppercase;
-    color: #333;
+    color: #8a4339;
 }
 
 .box_foto img{
     border-radius: 200px;
-    border: 5px solid #1c2b2b;
+    border: 5px solid #8a4339;
 }
 
 .box_bio, .box_info, .box_aca, .box_pro{
@@ -44,8 +44,8 @@ body{
 }
 
 h2{
-    color: #283d3d;
-    border-bottom: 2px dashed #85b2b2;
+    color: #8a4339;
+    border-bottom: 5px dashed #8a4339;
 }
 
 ul{
@@ -67,7 +67,7 @@ ul{
 }
 
 .box_info a{
-    background-color: #458cc6;
+    background-color: #333;
     color: #ffffff;
     padding-left: 7px;
     padding-right: 7px;
